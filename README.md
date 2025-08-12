@@ -7,7 +7,7 @@ We, the Denison Wellness Analysts, are driven to distill this vast data, sheddin
 
 ## 🛠️ Methods
 - **Data Cleaning & Preprocessing:** Variable Selection, Missing value handling, Combining disparate datasets from multiple years
-- **Exploratory Data Analysis:** Bar charts
+- **Exploratory Data Analysis:** Bar charts, line plots
 - **Statistical Analysis:** Bar charts, ANOVA, Chi-squared Testing, T-tests
 - **Predictive Modeling:** Multiple linear regression, Multiple logistic regression
 
