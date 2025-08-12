@@ -12,6 +12,8 @@ We, the Denison Wellness Analysts, are driven to distill this vast data, sheddin
 - **Predictive Modeling:** Multiple linear regression, Multiple logistic regression
 
 ## 📈 Results
+![BMI Category between 2011 and 2023 by gender](figures/Screenshot-2025-08-12-131339.png)
+
 To summarize important findings for each Wellness Center priority:
 - **Overall Health:** Feelings of belonging on Denison’s campus noticeably vary across different races.
 - **Mental Health:** A significant proportion of students at Denison intentionally harm themselves (>12% of Denison students in our 2023 data said they intentionally injured themselves within the last 12 months). 
